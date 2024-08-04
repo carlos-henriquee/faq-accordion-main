@@ -118,7 +118,7 @@ h1 img{
 
 
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; margin-top: 1rem; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
@@ -139,9 +139,6 @@ h1 img{
     }
     .card-container .questions_container .question .question-icons{
         margin-left: 2rem;
-    }
-    .attribution {
-        margin-top: 1rem;
     }
 
 }
